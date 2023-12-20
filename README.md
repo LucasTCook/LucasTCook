@@ -7,20 +7,34 @@
 - 🐉 Avid Dungeons & Dragons player.
 - 🎮 Video game and board game aficionado.
 - 📚 Lover of Science Fiction/Fantasy novels.
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lucastcook/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <br>
 
 </div>
 
+## 🌱 What I'm Currently Learning
 
----
+I'm currently expanding my knowledge in **Deep Learning**, specifically with **TensorFlow**. This journey is not just about enhancing my technical skills but also about exploring the fascinating applications of AI and the complex problems it can solve.
 
-### :hammer_and_wrench: Languages and Tools :
+## 🎯 I'm Looking For
+
+I'm on the lookout for roles that will allow me to leverage my extensive experience in software development along with my newfound skills in Deep Learning. I'm excited about the prospect of contributing to a team that values innovation, continuous learning, and applying cutting-edge technologies to make a real-world impact.
+
+## 📜 Certifications
+
+My commitment to learning and professional growth is demonstrated by my recent certifications:
+
+- **Introduction to TensorFlow** from DeepLearning.AI
+  <br>
+  <a href="https://coursera.org/share/91a6b737ad34fccf84622f0df090f93b" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
+  </a>
+- **Convolutional Neural Networks** from DeepLearning.AI
+  <br>
+  <a href="https://coursera.org/share/4e74cc3195bdc2919e86bd945e722c5b" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
+  </a>
+
+
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
@@ -40,24 +54,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  
-
-  
-  
 </div>
 
+## 📫 Get In Touch
 
-<!--
-**LucasTCook/LucasTCook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Whether it's a job opportunity, a project collaboration, or just a chat, I'd love to connect with you!
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="https://lucascookdev.wixsite.com/lucas-cook">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucastcook/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/lucastcook">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="mailto:lucascookdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <br><br>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
