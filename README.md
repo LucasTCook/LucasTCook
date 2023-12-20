@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hi there, I'm Lucas!
+
+## About Me
+
+- 🧑‍💻 Software Developer with 7 years of experience.
+- 🎸 Guitar enthusiast and music theory learner.
+- 🐉 Avid Dungeons & Dragons player.
+- 🎮 Video game and board game aficionado.
+- 📚 Lover of Science Fiction/Fantasy novels.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lucastcook/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
