@@ -73,9 +73,9 @@ Whether it's a job opportunity, a project collaboration, or just a chat, I'd lov
   <a href="mailto:lucascookdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <br><br>
+<!--   <br><br>
   <div>
     <img src="https://komarev.com/ghpvc/?username=lucastcook&style=flat-square&color=green" alt=""/>
-  </div>
+  </div> -->
 </div>
 
