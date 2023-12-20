@@ -75,7 +75,7 @@ Whether it's a job opportunity, a project collaboration, or just a chat, I'd lov
   </a>
   <br><br>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=lucastcook&style=flat-square&color=green" alt=""/>
   </div>
 </div>
 
