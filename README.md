@@ -32,7 +32,11 @@ My commitment to learning and professional growth is demonstrated by my recent c
   <a href="https://coursera.org/share/4e74cc3195bdc2919e86bd945e722c5b" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
   </a>
-
+- **Natural Language Processing** from DeepLearning.AI
+  <br>
+  <a href="https://coursera.org/share/a6ceada4c911775ff2808ee0fb6d89e6" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
+  </a>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
