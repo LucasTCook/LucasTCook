@@ -3,9 +3,8 @@
 ## About Me
 
 - 🧑‍💻 Software Developer with 7 years of experience.
-- 🎸 Guitar enthusiast and music theory learner.
+- 🎸 Guitar and music theory enthusiast.
 - 🐉 Avid Dungeons & Dragons player.
-- 🎮 Video game and board game aficionado.
 - 📚 Lover of Science Fiction/Fantasy novels.
 
 </div>
