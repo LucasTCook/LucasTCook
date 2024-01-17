@@ -36,7 +36,17 @@ My commitment to learning and professional growth is demonstrated by my recent c
   <a href="https://coursera.org/share/a6ceada4c911775ff2808ee0fb6d89e6" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
   </a>
-
+- **Sequences, Time Series, and Prediction** from DeepLearning.AI
+  <br>
+  <a href="https://coursera.org/share/08d22fa96218b715cce8a562dcc9ed18" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
+  </a>
+- **DeepLearning.AI TensorFlow Developer** from DeepLearning.AI
+  <br>
+  <a href="https://coursera.org/share/be9b47488c230e41348ba51b76fc2c85" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
+  </a>
+  
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
