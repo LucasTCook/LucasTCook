@@ -15,7 +15,7 @@ I'm currently expanding my knowledge in **Deep Learning**, specifically with **T
 
 ## 🎯 I'm Looking For
 
-I'm on the lookout for roles that will allow me to leverage my extensive experience in software development along with my newfound skills in Deep Learning. I'm excited about the prospect of contributing to a team that values innovation, continuous learning, and applying cutting-edge technologies to make a real-world impact.
+I'm on the lookout for roles that will allow me to leverage my extensive experience in software engineering. I'm excited about the prospect of contributing to a team that values innovation, continuous learning, and applying cutting-edge technologies to make a real-world impact.
 
 ## 📜 Certifications
 
