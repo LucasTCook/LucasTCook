@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🧑‍💻 Software Developer with 7 years of experience.
+- 🧑‍💻 Software Engineer with 7 years of experience.
 - 🎸 Guitar and music theory enthusiast.
 - 🐉 Avid Dungeons & Dragons player.
 - 📚 Lover of Science Fiction/Fantasy novels.
