@@ -61,7 +61,7 @@ My commitment to learning and professional growth is demonstrated by my recent c
 
 ## 📫 Get In Touch
 
-I'd love to connect with you!
+I'd love to connect!
 
 <div id="badges" align="center">
   <a href="https://lucascookdev.wixsite.com/lucas-cook">
