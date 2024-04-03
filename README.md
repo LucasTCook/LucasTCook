@@ -9,14 +9,6 @@
 
 </div>
 
-## 🌱 What I'm Currently Learning
-
-I'm currently expanding my knowledge in **Deep Learning**, specifically with **TensorFlow**. This journey is not just about enhancing my technical skills but also about exploring the fascinating applications of AI and the complex problems it can solve.
-
-## 🎯 I'm Looking For
-
-I'm on the lookout for roles that will allow me to leverage my extensive experience in software engineering. I'm excited about the prospect of contributing to a team that values innovation, continuous learning, and applying cutting-edge technologies to make a real-world impact.
-
 ## 📜 Certifications
 
 My commitment to learning and professional growth is demonstrated by my recent certifications:
@@ -69,7 +61,7 @@ My commitment to learning and professional growth is demonstrated by my recent c
 
 ## 📫 Get In Touch
 
-Whether it's a job opportunity, a project collaboration, or just a chat, I'd love to connect with you!
+I'd love to connect with you!
 
 <div id="badges" align="center">
   <a href="https://lucascookdev.wixsite.com/lucas-cook">
