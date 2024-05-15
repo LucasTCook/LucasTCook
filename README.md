@@ -71,9 +71,9 @@ My commitment to learning and professional growth is demonstrated by my recent c
 I'd love to connect!
 
 <div id="badges" align="center">
-  <a href="https://lucascookdev.wixsite.com/lucas-cook">
+<!--   <a href="https://lucascookdev.wixsite.com/lucas-cook">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/lucastcook/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
