@@ -62,6 +62,7 @@ My commitment to learning and professional growth is demonstrated by my recent c
   <img src="https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2023/11/mulesoft-logo.webp?w=528" title="mulesoft" alt="mulesoft" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
