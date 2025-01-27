@@ -13,26 +13,6 @@
 
 My commitment to learning and professional growth is demonstrated by my recent certifications:
 
-- **Introduction to TensorFlow** from DeepLearning.AI
-  <br>
-  <a href="https://coursera.org/share/91a6b737ad34fccf84622f0df090f93b" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
-  </a>
-- **Convolutional Neural Networks** from DeepLearning.AI
-  <br>
-  <a href="https://coursera.org/share/4e74cc3195bdc2919e86bd945e722c5b" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
-  </a>
-- **Natural Language Processing** from DeepLearning.AI
-  <br>
-  <a href="https://coursera.org/share/a6ceada4c911775ff2808ee0fb6d89e6" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
-  </a>
-- **Sequences, Time Series, and Prediction** from DeepLearning.AI
-  <br>
-  <a href="https://coursera.org/share/08d22fa96218b715cce8a562dcc9ed18" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/>
-  </a>
 - **DeepLearning.AI TensorFlow Developer** from DeepLearning.AI
   <br>
   <a href="https://coursera.org/share/be9b47488c230e41348ba51b76fc2c85" target="_blank">
@@ -78,9 +58,6 @@ I'd love to connect!
   </a> -->
   <a href="https://www.linkedin.com/in/lucastcook/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/lucastcook">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="mailto:lucascookdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
