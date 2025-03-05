@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🧑‍💻 Software Engineer with 8 years of experience.
-- 🎸 Guitar and music theory enthusiast.
-- 🐉 Avid Dungeons & Dragons player.
-- 📚 Lover of Science Fiction/Fantasy novels.
+- 🧑‍💻 Software Engineer with 8 years of experience
+- 🎸 Guitar and music theory enthusiast
+- 🐉 Avid Dungeons & Dragons player
+- 📚 Lover of Science Fiction/Fantasy novels
 
 </div>
 
