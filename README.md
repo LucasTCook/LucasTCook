@@ -11,8 +11,6 @@
 
 ## 📜 Certifications
 
-My commitment to learning and professional growth is demonstrated by my recent certifications:
-
 - **DeepLearning.AI TensorFlow Developer** from DeepLearning.AI
   <br>
   <a href="https://coursera.org/share/be9b47488c230e41348ba51b76fc2c85" target="_blank">
@@ -50,7 +48,7 @@ My commitment to learning and professional growth is demonstrated by my recent c
 
 ## 📫 Get In Touch
 
-I'd love to connect!
+Shoot me a message! I'd love to connect!
 
 <div id="badges" align="center">
 <!--   <a href="https://lucascookdev.wixsite.com/lucas-cook">
